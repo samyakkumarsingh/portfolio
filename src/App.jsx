@@ -139,7 +139,7 @@ export default function Portfolio() {
             <Button onClick={() => scrollToId("projects")}>View Projects</Button>
             <Button variant="outline" onClick={() => scrollToId("contact")}>Contact</Button>
             <a
-              href="https://drive.google.com/file/d/1ECwspT-hrSq5Gl3Hjw5JJMSmw3YCXwFi/view"
+              href="https://drive.google.com/file/d/1_NtXn4xZHXAhtMXTKIsYqC-_QWUQyeOu/view?usp=drive_link"
               target="_blank"
               rel="noreferrer"
             >
